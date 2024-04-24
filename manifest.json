@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Slate Gray 12",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(250, 250, 250)",
+      "toolbar_text": "rgb(105, 105, 105)",
+      "frame": "rgb(86, 101, 115)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(105, 105, 105)",
+      "tab_line": "rgb(51, 51, 51)",
+      "popup": "rgb(250, 250, 250)",
+      "popup_text": "rgb(105, 105, 105)",
+      "tab_loading": "rgb(51, 51, 51)"
+    }
+  }
+}
